@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-27 234709](https://github.com/user-attachments/assets/0dd33995-6cba-4f50-bc6a-6317ffc2c190)
+
+
+### Name:SHAIK LAHIR
+### Register Number:24005737
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
